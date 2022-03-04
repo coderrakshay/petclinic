@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: coderrakshay/petclinic
+  repository: akshay1901/cloudfear
   tag: latest
   pullPolicy: IfNotPresent
 
